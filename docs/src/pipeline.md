@@ -13,7 +13,7 @@ documentation on each table, see the API docs for the respective schemas.
 | --- | --- |
 | Device | Pulse generator device |
 
-## `subject` schema ([API docs](https://datajoint.com/docs/elements/element-animal/latest/api/element_animal/subject/#element_animal.subject.Subject))
+## `subject` schema ([API docs](https://docs.datajoint.com/elements/element-animal/latest/api/element_animal/subject/))
 
 - Although not required, most choose to connect the `Session` table to a `Subject` table.
 
@@ -29,7 +29,7 @@ documentation on each table, see the API docs for the respective schemas.
 | --- | --- |
 | Implantation | Location of an implanted device |
 
-## `session` schema ([API docs](https://datajoint.com/docs/elements/element-session/latest/api/element_session/session_with_id))
+## `session` schema ([API docs](https://docs.datajoint.com/elements/element-session/latest/api/element_session/session_with_datetime/))
 
 | Table | Description |
 | --- | --- |
