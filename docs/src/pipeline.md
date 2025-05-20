@@ -29,7 +29,7 @@ documentation on each table, see the API docs for the respective schemas.
 | --- | --- |
 | Implantation | Location of an implanted device |
 
-## `session` schema ([API docs](https://docs.datajoint.com/elements/element-session/latest/api/element_session/session_with_datetime/))
+## `session` schema ([API docs](https://docs.datajoint.com/elements/element-session/latest/api/element_session/session_with_id/))
 
 | Table | Description |
 | --- | --- |
